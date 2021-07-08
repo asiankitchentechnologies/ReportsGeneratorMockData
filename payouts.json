@@ -1,0 +1,18 @@
+{
+    "payoutList": [
+        {
+            "id": "po_1J9gCA4EkCtzgPAMJZN2H8LB",
+            "amount": 577249,
+            "arrival_date": 1625529600,
+            "automatic": true,
+            "currency": "usd",
+            "destination": {
+                "last4": "1234"
+            },
+            "status": "paid",
+            "created": 1625446918
+        }
+    ],
+    "has_more": false,
+    "successful": true
+}

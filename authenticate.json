@@ -1,0 +1,14 @@
+{
+    "userId": "testid",
+    "token": "testtoken",
+    "deviceLang": 100,
+    "merchantIds": [
+        "testmerchid"
+    ],
+    "pickUpHaveSetted": true,
+    "deliveryHaveSetted": true,
+    "activate": true,
+    "status": "onLine",
+    "dlActivate": true,
+    "successful": true
+}

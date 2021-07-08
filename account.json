@@ -1,0 +1,21 @@
+{
+    "name": "Test Restaurant",
+    "address1": "123 Anywhere St",
+    "address2": "",
+    "city": "Some City",
+    "state": "CA",
+    "serviceSelection": 1,
+    "timeZone": "America/Los_Angeles",
+    "restaurantService": {},
+    "encryptMerchantId": "testencryptedid",
+    "activate": true,
+    "dlActivate": true,
+    "stripeAccountId": "teststripeacct",
+    "stripeEnable": true,
+    "currency": "usd",
+    "email": "testemail@test.com",
+    "logo": "",
+    "merchant_id": "testmerchid",
+    "enableApp": false,
+    "successful": true
+}

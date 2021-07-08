@@ -1,0 +1,276 @@
+{
+    "chargesList": [
+        {
+            "id": "py_1J8WTg4EkCtzgPAM87nkHT4n",
+            "amount": 9042,
+            "created": 1625171236,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 256,
+            "fee_details": [
+                {
+                    "amount": 256,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 8786,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60de2525471271008f21b33c",
+                "posOrderId": "6996",
+                "posOrderNumber": "2",
+                "merchantId": "M000009156"
+            },
+            "cardType": "discover"
+        },
+        {
+            "id": "py_1J8UuS4EkCtzgPAMpiNzxpkU",
+            "amount": 3971,
+            "created": 1625165208,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 129,
+            "fee_details": [
+                {
+                    "amount": 129,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 3842,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60de0d99286c540045c657fb",
+                "posOrderId": "6995",
+                "posOrderNumber": "1",
+                "merchantId": "M000009156"
+            },
+            "cardType": "visa"
+        },
+        {
+            "id": "py_1J8FcR4EkCtzgPAM3bmGrUP7",
+            "amount": 3492,
+            "created": 1625106431,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 117,
+            "fee_details": [
+                {
+                    "amount": 117,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 3375,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60dd28010a8ae7009fce855e",
+                "posOrderId": "6994",
+                "posOrderNumber": "15",
+                "merchantId": "M000009156"
+            },
+            "cardType": "visa"
+        },
+        {
+            "id": "py_1J8FTO4EkCtzgPAM2NpD8Dpm",
+            "amount": 2527,
+            "created": 1625105870,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 93,
+            "fee_details": [
+                {
+                    "amount": 93,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 2434,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60dd25cf471271008f2181ae",
+                "posOrderId": "6993",
+                "posOrderNumber": "14",
+                "merchantId": "M000009156"
+            },
+            "cardType": "visa"
+        },
+        {
+            "id": "py_1J8FPJ4EkCtzgPAMolHzt9Zv",
+            "amount": 7838,
+            "created": 1625105618,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 226,
+            "fee_details": [
+                {
+                    "amount": 226,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 7612,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60dd24d3286c540045c62f39",
+                "posOrderId": "6992",
+                "posOrderNumber": "13",
+                "merchantId": "M000009156"
+            },
+            "cardType": "visa"
+        },
+        {
+            "id": "py_1J8FEx4EkCtzgPAMznIS5joX",
+            "amount": 6871,
+            "created": 1625104975,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 270,
+            "fee_details": [
+                {
+                    "amount": 270,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 6601,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60dd2251286c540045c62e25",
+                "posOrderId": "6991",
+                "posOrderNumber": "12",
+                "merchantId": "M000009156"
+            },
+            "cardType": "amex"
+        },
+        {
+            "id": "py_1J8Etu4EkCtzgPAMrPHqQ7sK",
+            "amount": 2265,
+            "created": 1625103671,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 87,
+            "fee_details": [
+                {
+                    "amount": 87,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 2178,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60dd1d37471271008f217f48",
+                "posOrderId": "6990",
+                "posOrderNumber": "11",
+                "merchantId": "M000009156"
+            },
+            "cardType": "visa"
+        },
+        {
+            "id": "py_1J8Eo14EkCtzgPAM5twCQZXk",
+            "amount": 4891,
+            "created": 1625103305,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 152,
+            "fee_details": [
+                {
+                    "amount": 152,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 4739,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60dd1bca0a8ae7009fce81fb",
+                "posOrderId": "6989",
+                "posOrderNumber": "10",
+                "merchantId": "M000009156"
+            },
+            "cardType": "visa"
+        },
+        {
+            "id": "py_1J8Eju4EkCtzgPAM8mGTIPOw",
+            "amount": 4444,
+            "created": 1625103050,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 141,
+            "fee_details": [
+                {
+                    "amount": 141,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 4303,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60dd1acb88e8cb0055330f1e",
+                "posOrderId": "6988",
+                "posOrderNumber": "9",
+                "merchantId": "M000009156"
+            },
+            "cardType": "visa"
+        },
+        {
+            "id": "py_1J8ENh4EkCtzgPAMyl3Y3htS",
+            "amount": 2633,
+            "created": 1625101674,
+            "currency": "usd",
+            "customer_details": null,
+            "description": null,
+            "fee": 96,
+            "fee_details": [
+                {
+                    "amount": 96,
+                    "application": "ca_DD9VUgV2QLCl8NjZJaxIllBgOfWgk7Mf",
+                    "currency": "usd",
+                    "description": "mock test application fee",
+                    "type": "application_fee"
+                }
+            ],
+            "net": 2537,
+            "type": "payment",
+            "metadata": {
+                "onlineOrderId": "60dd156b286c540045c627eb",
+                "posOrderId": "6987",
+                "posOrderNumber": "8",
+                "merchantId": "M000009156"
+            },
+            "cardType": "visa"
+        }
+    ],
+    "has_more": false,
+    "successful": true
+}
